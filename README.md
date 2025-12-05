@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![BlinkBeat Beauty Salon](https://img.shields.io/badge/BlinkBeat-Beauty_Salon-pink?style=for-the-badge)](https://your-beauty-salon-link.com)
+
 [![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://healthcare-hospital-web.vercel.app/)
