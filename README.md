@@ -13,7 +13,7 @@
 
 A modern, responsive healthcare hospital website built with React, Tailwind CSS, and Vite. Features a clean UI with advanced animations, appointment booking system, email notifications via MailJS, and comprehensive medical services showcase.
 
-![Healthcare Hospital Website](https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&h=600&fit=crop)
+
 
 ## 🌐 Live Demo
 🔗 **[Visit Website](https://healthcare-hospital-web.vercel.app/)**
